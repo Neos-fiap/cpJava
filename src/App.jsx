@@ -1,5 +1,5 @@
 import React from 'react';
-import EscolherCarro from './assets/components/EscolherCarro';
+import EscolherCarro from './components/EscolherCarro';
 
 function App() {
   return (
