@@ -1,6 +1,4 @@
-### Carlos Eduardo Goes RM: 562389
-### Nicholas Braga de Souza RM: 561733@
-### Tomé Rossi Giani RM: 562422
+
 
 
 # EscolherCarro
@@ -43,5 +41,7 @@ Este projeto tem como objetivo permitir ao usuário escolher um carro dentre alg
    ```
 
 ---
-
-Projeto desenvolvido para fins de aprendizado em React.
+## Nome do Grupo
+### Carlos Eduardo Goes RM: 562389
+### Nicholas Braga de Souza RM: 561733
+### Tomé Rossi Giani RM: 562422
