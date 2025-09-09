@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import Header from './Header';
+import Footer from './Footer';
+
 
 const carros = [
   { nome: 'Fiat Uno', cor: 'Vermelho', ano: 2015 },
@@ -51,9 +53,7 @@ function EscolherCarro() {
           </div>
         )}
       </div>
-      <footer className="mt-10 text-gray-500 text-sm">
-        Projeto React &copy; 2025
-      </footer>
+      <Footer ano={2025} />
     </div>
   );
 }
